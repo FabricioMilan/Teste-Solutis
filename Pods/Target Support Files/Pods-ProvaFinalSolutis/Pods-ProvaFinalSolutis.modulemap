@@ -1,0 +1,6 @@
+framework module Pods_ProvaFinalSolutis {
+  umbrella header "Pods-ProvaFinalSolutis-umbrella.h"
+
+  export *
+  module * { export * }
+}
